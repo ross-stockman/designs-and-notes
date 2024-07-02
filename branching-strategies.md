@@ -89,7 +89,7 @@ This strategy is designed for larger projects that have frequent changes and inv
 #### Bugfix Branch
 
 1. Create Bugfix Branch:
-    * From r`elease/1.0.0`: `bugfix/issue123`
+    * From `release/1.0.0`: `bugfix/issue123`
     * Fix the issue.
 2. Merge Bugfix Branch:
     * Merge `bugfix/issue123` into `release/1.0.0`.
